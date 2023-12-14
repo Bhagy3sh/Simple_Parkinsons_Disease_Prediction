@@ -1,1 +1,9 @@
 # Early Prediction of Parkinsons Disease using Simple Machine Learning
+
+## Introduction:
+Parkinson's disease (PD), a widely observed neurological condition affecting muscle coordination, presents with symptoms such as tremors, muscle rigidity, and bradykinesia. The fundamental cause is the degeneration of neurons, resulting in reduced dopamine levels that disrupt synaptic communication, leading to compromised motor functions. Although the progression of the disease varies from person to person, balance issues and tremors consistently emerge as primary consequences of dopaminergic neuron loss. Despite its global prevalence, PD remains without a cure, emphasizing the importance of early detection and personalized interventions to manage its progression.
+PD unfolds in five progressive stages, with up to 90% of patients with Parkinson's (PWP) displaying vocal cord impairments as an initial symptom in stage 0. Vocal dysfunction, easily quantifiable and falling within the purview of telemedicine, allows for remote monitoring, enabling patients to undergo audio tests at home. Vocal modulation symptoms, including dysphonia and dysarthria, are evaluated through sustained phonation tests or running speech assessments, providing realistic indicators of impairment. The potential for early detection in stage 0 creates a crucial window for intervention. The global impact of PD and the challenges associated with its diagnosis, often costly and lacking in accuracy, underscore the pressing need for cost-effective and precise diagnostic techniques. While previous models incorporated sophisticated technologies like Deep Learning and Neural Networks, requiring significant computational resources, this project adopts a machine learning approach with a focus on deploying simpler models. This strategy aims to improve affordability, widen accessibility, and contribute to effective PD identification in various applications. 
+
+## Literature Review:
+
+
