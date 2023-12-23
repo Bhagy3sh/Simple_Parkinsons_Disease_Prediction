@@ -62,7 +62,7 @@ def main():
 
     return render_template("index.html")
 
-@app.route("/predict", methods=["GET", "POST"])
+@app.route("/prediction", methods=["GET", "POST"])
 def prediction():
     if request.method == "POST":
         Patient_ID = request.form['Patient_ID']
